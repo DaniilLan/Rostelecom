@@ -32,7 +32,7 @@
 ***
 #### В корневом каталоге проекта содержаться:
 * [Driver](https://github.com/DaniilLan/Rostelecom/tree/main/Driver) - веб-драйвер и его лицензия;
-* [Page](https://github.com/DaniilLan/Rostelecom/tree/main/Page) - локаторы и основные функцыии для тестов;
+* [Page](https://github.com/DaniilLan/Rostelecom/tree/main/Page) - локаторы и основные функцыи для тестов;
 * [tests](https://github.com/DaniilLan/Rostelecom/tree/main/test) - тесты на каждую страницу.
 ***
 #### Директория Driver содержит:
