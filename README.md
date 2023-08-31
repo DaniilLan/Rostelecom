@@ -5,7 +5,7 @@
 → Объект тестирования: https://b2c.passport.rt.ru
 
 
-→ [Требования по проекту (.doc)](https://docs.google.com/document/d/12yoTwHSTXxIUQQCH32OvlSd3QYUt_aQk/edit?usp=sharing&ouid=114302123057644378289&rtpof=true&sd=true)
+→ [Требования по проекту (.doc)](https://docs.google.com/document/d/16EDl8nK3VFl4S_qI33oK14_C5EkT_X6b/edit?usp=drive_link&ouid=112298827689842558654&rtpof=true&sd=true)
 
 
 
