@@ -53,7 +53,7 @@
 ***
 
 
-→ [Тест-кейсы, баг-репорты](https://docs.google.com/spreadsheets/d/1h-1wUtpINn6I14Mhtua02kMSiNghaw_u39PlyeyAXOk/edit#gid=0)
+### → [Тест-кейсы, баг-репорты](https://docs.google.com/spreadsheets/d/1h-1wUtpINn6I14Mhtua02kMSiNghaw_u39PlyeyAXOk/edit#gid=0)
 
 ### При разработке тест-кейсов были применены следующие техники тест-дизайна: 
  
