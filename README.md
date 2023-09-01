@@ -73,7 +73,7 @@
 * В файле [config.py](https://github.com/DaniilLan/Rostelecom/blob/main/Page/config.py) заполнить все переменные соответствующими данными
 * Загрузите [Selenium WebDriver](https://chromedriver.chromium.org/downloads) (выберите версию, совместимую с вашим браузером) и прописать путь к драйверу в переменную PATH_DRIVER в файле config.py;
 * Запустить тест: `python -m pytest -v --driver Chrome --driver-path <путь файла>`.
-* При ошибке импортирования файлов из папки [Page](https://github.com/DaniilLan/Rostelecom/tree/main/Page) пометьте её как Sources Root
+* При ошибке импортирования файлов из папки [Page](https://github.com/DaniilLan/Rostelecom/tree/main/Page) пометить её как Sources Root
 
 
 
